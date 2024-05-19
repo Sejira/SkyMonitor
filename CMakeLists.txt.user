@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 13.0.1, 2024-05-19T17:42:32. -->
+<!-- Written by QtCreator 13.0.1, 2024-05-19T18:52:15. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -393,9 +393,9 @@
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
     <value type="QString" key="PerfRecordArgsId">-e cpu-cycles --call-graph dwarf,4096 -F 250</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Scopi</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.Scopi</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">Scopi</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Sky_Monitor</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.Sky_Monitor</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">Sky_Monitor</value>
     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
