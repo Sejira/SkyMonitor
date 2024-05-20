@@ -1,0 +1,9 @@
+# ninja log v5
+9	605	1716166345199394950	Sky_Monitor_autogen/timestamp	e0137d44b43b6605
+9	605	1716166345199394950	Sky_Monitor_autogen/mocs_compilation.cpp	e0137d44b43b6605
+9	605	1716166345199394950	/home/seb/Bureau/Projets/SkyMonitor/build/Desktop-Debug/CMakeFiles/Sky_Monitor_autogen/timestamp	e0137d44b43b6605
+9	605	1716166345199394950	/home/seb/Bureau/Projets/SkyMonitor/build/Desktop-Debug/CMakeFiles/Sky_Monitor_autogen/mocs_compilation.cpp	e0137d44b43b6605
+605	3433	1716166348032545790	CMakeFiles/Sky_Monitor.dir/Sky_Monitor_autogen/mocs_compilation.cpp.o	c6a434f74b9a9fa9
+606	3875	1716166348474569336	CMakeFiles/Sky_Monitor.dir/mainwindow.cpp.o	524f4310aea4cf7d
+606	4503	1716166349101602740	CMakeFiles/Sky_Monitor.dir/main.cpp.o	604e8fa55f32e0b8
+4503	5024	1716166349618630290	Sky_Monitor	8b5ad917a4794859
